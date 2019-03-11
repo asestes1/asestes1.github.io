@@ -13,18 +13,18 @@ author_profile: true
 
 Preprints and Publications Under Review
 ======
-{% for post in site.preprints reversed %}
+<ul>{% for post in site.preprints reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}</ul>
 
 Journal Publications
 ======
-{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}</ul>
 
 Peer-Reviewed Conference Publications
 ======
-{% for post in site.conferencepubs reversed %}
+<ul>{% for post in site.conferencepubs reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}</ul>
