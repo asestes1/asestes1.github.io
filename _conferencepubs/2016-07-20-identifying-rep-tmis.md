@@ -1,6 +1,6 @@
 ---
 title: "Identifying representative traffic management initiatives"
-collection: publications
+collection: conferencepubs
 permalink: /publication/2016-07-20-identifying-rep-tmis.md
 date: 2016-07-20
 venue: 'Proc. 7th International Conference on Research in Air Traffic 2016'

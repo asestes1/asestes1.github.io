@@ -1,6 +1,6 @@
 ---
 title: "Selecting parameters in performance-based ground delay program planning."
-collection: publications
+collection: conferencepubs
 permalink: /publication/2018-07-26-selecting-params.md
 date: 2018-07-26
 venue: 'Proc. 8th International Conference on Research in Air Traffic 2018'

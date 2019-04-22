@@ -1,6 +1,6 @@
 ---
 title: "Predicting performance of ground delay programs."
-collection: publications
+collection: conferencepubs
 permalink: /publication/2017-07-26-predicting-performance.md
 date: 2017-07-26
 venue: 'Proc. 12th USA/Europe Air Traffic Management R&D Seminar 2017'
