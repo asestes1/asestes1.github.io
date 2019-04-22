@@ -1,5 +1,5 @@
 ---
-title: "Discrete Calculus on Mixed Time Scales"
+title: "Discrete calculus on mixed time scales"
 collection: publications
 permalink: /publication/2013-10-discrete-calculus-on-mixed-time-scales
 excerpt:
