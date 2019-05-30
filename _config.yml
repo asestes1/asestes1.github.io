@@ -83,8 +83,8 @@ author:
   name             : "Alexander S. Estes"
   avatar           : "profile.png"
   bio              : "Industrial Postdoc Fellow"
-  location         : "Institute for Mathematics and its Applications"
-  employer         : "University of Minnesota & Target"
+  location         :
+  employer         : "University of Minnesota"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=FI1IKHcAAAAJ&hl=en"
   email            : "este0100@umn.edu"
@@ -185,9 +185,6 @@ collections:
   conferencepubs:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -229,8 +226,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _preprints
   - scope:
       path: ""
@@ -238,8 +235,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _conferencepubs
   - scope:
       path: ""
@@ -247,17 +244,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      share: False
+      comments: False
   # _talks
   - scope:
       path: ""
