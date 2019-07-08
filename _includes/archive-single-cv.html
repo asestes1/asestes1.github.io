@@ -39,8 +39,9 @@
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
 	{% elsif post.pubstatus %}<p class="archive__item-excerpt" itemprop="description">{{ post.pubstatus }}</p>
 	{% endif %}
-	{% if post.paperurl or post.preprinturl or post.paperdownload %}
+	{% if post.confpaperurl or post.paperurl or post.preprinturl or post.paperdownload %}
 	<p class="archive__item-excerpt" itemprop="description">
+	{% if post.confpaperurl %}Available on conference website <a href="{{ post.confpaperurl }}">here</a>. {% endif %}
     {% if post.paperurl %}Available on journal website <a href="{{ post.paperurl }}">here</a>. {% endif %}
 	{% if post.preprinturl %}Preprint available <a href="{{ post.preprinturl }}">here</a>. {% endif %}
 	{% if post.paperdownload %}Download available <a href="{{ post.paperdownload }}">here</a>. {% endif %}

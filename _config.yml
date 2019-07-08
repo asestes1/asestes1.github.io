@@ -186,8 +186,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
-    permalink: /:collection/:path/
+    output: False
+  talkvenues:
+    output: False
 
 
 # Defaults
