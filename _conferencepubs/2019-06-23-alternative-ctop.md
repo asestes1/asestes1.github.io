@@ -5,7 +5,7 @@ permalink: /publication/alternate-ctop
 date: 2019-06-23
 venue: 'Proc. 13th USA/Europe Air Traffic Management R&D Seminar 2019'
 confpaperurl: 'http://www.atmseminarus.org/seminarContent/seminar13/papers/ATM_Seminar_2019_paper_93.pdf'
-citation: '<strong>Estes AS</strong>, Ball MO. (2019). &quot;Alternative resource allocation mechanisms for the Collaborative Trajectory Options Program (CTOP).&quot; <i>Proc. 13th USA/Europe Air Traffic Management R&D Seminar 2019</i>. Vienna, Austria'
+citation: '<strong>Estes AS</strong>, Ball MO (2019) Alternative resource allocation mechanisms for the Collaborative Trajectory Options Program (CTOP).<i> Proc. 13th USA/Europe Air Traffic Management R&D Seminar,</i> 2019, Vienna.'
 ---
 > In this paper, we identify two weaknesses in the design
 of the collaborative trajectory options program (CTOP) traffic
