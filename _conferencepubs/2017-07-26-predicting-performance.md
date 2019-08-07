@@ -5,7 +5,7 @@ permalink: /conferencepubs/2017-07-26-predicting-performance
 date: 2017-07-26
 venue: '12th USA/Europe Air Traffic Management R&D Seminar'
 confpaperurl: 'http://www.atmseminarus.org/seminarContent/seminar12/papers/12th_ATM_RD_Seminar_paper_128.pdf'
-citation: '<strong>Estes AS</strong>, Ball MO, Lovell DJ (2017) Identifying representative traffic management initiatives.<i>Proc. 12th USA/Europe Air Traffic Management R&D Seminar</i>, 2017, Seattle, WA.'
+citation: '<strong>Estes AS</strong>, Ball MO, Lovell DJ (2017) Identifying representative traffic management initiatives.<i> Proc. 12th USA/Europe Air Traffic Management R&D Seminar</i>, 2017, Seattle, WA.'
 ---
 > Models are proposed to estimate the performance of
 Ground Delay Programs as air traffic management initiatives.
