@@ -229,6 +229,7 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      ispublication: true
   # _preprints
   - scope:
       path: ""
@@ -238,6 +239,7 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      ispublication: true
   # _conferencepubs
   - scope:
       path: ""
@@ -247,6 +249,7 @@ defaults:
       author_profile: true
       share: False
       comments: False
+      ispublication: true
   # _talks
   - scope:
       path: ""
