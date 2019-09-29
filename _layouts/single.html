@@ -51,6 +51,7 @@ layout: default
 		
         {% if page.paperurl or page.preprinturl or page.paperdownload %}
           <p> 
+			{% if page.confpaperurl %} Available on conference website <a href="{{ page.paperurl }}">here</a>.{% endif %}
 			{% if page.paperurl %} Available on journal website <a href="{{ page.paperurl }}">here</a>.{% endif %}
 			{% if page.preprinturl %} Preprint available <a href="{{ page.preprinturl }}">here</a>.{% endif %}
 			{% if page.paperdownload %} Download available <a href="{{ page.paperdownload }}">here</a>.{% endif %}
