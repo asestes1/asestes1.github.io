@@ -2,7 +2,7 @@
 title: "Monge Properties, Optimal Greedy Policies, and Policy Improvement for the Dynamic Stochastic Transportation Problem"
 collection: preprints
 permalink: /publication/dynamic-monge
-pubstatus: '<strong>Estes AS</strong>, Ball MO. Under review at <i>INFORMS Journal on Computing</i> (first revision; major revision).'
+pubstatus: '<strong>Estes AS</strong>, Ball MO. Under review at <i>INFORMS Journal on Computing</i> (second revision; major revision).'
 preprinturl: 'https://ssrn.com/abstract=3067130'
 selected: true
 ---
