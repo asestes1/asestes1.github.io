@@ -2,7 +2,7 @@
 title: "Objective-Aligned Regression for Two-Stage Linear Programs"
 collection: preprints
 permalink: /publication/oa-regression
-pubstatus: '<strong>Estes AS</strong>, Richard J-PP. Working Paper.
+pubstatus: '<strong>Estes AS</strong>, Richard J-PP. Working Paper.'
 preprinturl: 'https://ssrn.com/abstract=3469897'
 selected: true
 ---
