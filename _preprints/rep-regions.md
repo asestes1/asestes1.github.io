@@ -2,7 +2,7 @@
 title: "Data Exploration with Selection of Representative Regions: Formulation, Axioms, Methods, and Consistency"
 collection: preprints
 permalink: /publication/rep-regions
-pubstatus: '<strong>Estes AS</strong>, Ball MO, Lovell DJ. Under review at <i>Mathematics of Operations Research</i> (first revision; major revision).'
+pubstatus: '<strong>Estes AS</strong>, Ball MO, Lovell DJ. Under review.'
 preprinturl: 'https://ssrn.com/abstract=3005997'
 selected: true
 ---

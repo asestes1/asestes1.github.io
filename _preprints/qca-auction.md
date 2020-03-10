@@ -2,7 +2,7 @@
 title: "Quantity-Contingent Auctions and Allocation of Airport Slots"
 collection: preprints
 permalink: /publication/qca-auction
-pubstatus: 'Ball MO, <strong>Estes AS</strong>, Hansen M, Liu Y. Under review at <i>Transportation Science</i> (first revision; major revision).'
+pubstatus: 'Ball MO, <strong>Estes AS</strong>, Hansen M, Liu Y. To appear in <i>Transportation Science</i>.'
 preprinturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3286732'
 selected: true
 ---

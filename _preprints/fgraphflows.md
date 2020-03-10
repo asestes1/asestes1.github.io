@@ -2,7 +2,7 @@
 title: "Facets of the Stochastic Network Flow Problem"
 collection: preprints
 permalink: /publication/fgraph
-pubstatus: '<strong>Estes AS</strong>, Ball MO. Working Paper.'
+pubstatus: '<strong>Estes AS</strong>, Ball MO. Under review.'
 preprinturl: 'https://ssrn.com/abstract=3449409'
 ---
 > We study a type of network flow problem that we call the minimum-
