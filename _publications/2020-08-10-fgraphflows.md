@@ -1,12 +1,11 @@
 ---
 title: "Facets of the Stochastic Network Flow Problem"
-collection: preprints
+collection: publications
 permalink: /publication/fgraph
 venue: 'SIAM Journal on Optimization'
 pubstatus: '<strong>Estes AS</strong>, Ball MO. To appear in <i>SIAM Journal of Optimization</i>.'
 preprinturl: 'https://ssrn.com/abstract=3449409'
 selected: true
-supplement:'http://asestes1.github.io/files/fgraph_sopt_supplement.pdf'
 ---
 > We study a type of network flow problem that we call the minimum-
 cost F-graph flow problem. This problem generalizes the typical minimum-cost
