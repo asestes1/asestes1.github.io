@@ -3,7 +3,7 @@ title: "Data Exploration with Selection of Representative Regions: Formulation, 
 collection: publications
 permalink: /publication/rep-regions
 venue: 'Mathematics of Operations Research'
-pubstatus: '<strong>Estes AS</strong>, Ball MO, Lovell DJ. To appear in <i>Mathematics of Operations Research</i>.'
+citation: '<strong>Estes AS</strong>, Ball MO, Lovell DJ. To appear in <i>Mathematics of Operations Research</i>.'
 preprinturl: 'https://ssrn.com/abstract=3005997'
 selected: true
 ---

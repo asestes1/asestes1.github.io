@@ -3,9 +3,9 @@ title: "Facets of the Stochastic Network Flow Problem"
 collection: publications
 permalink: /publication/fgraph
 venue: 'SIAM Journal on Optimization'
-pubstatus: '<strong>Estes AS</strong>, Ball MO. To appear in <i>SIAM Journal of Optimization</i>.'
+citation: '<strong>Estes AS</strong>, Ball MO. To appear in <i>SIAM Journal of Optimization</i>.'
 preprinturl: 'https://ssrn.com/abstract=3449409'
-supplement:'http://asestes1.github.io/files/fgraph_sopt_supplement.pdf' 
+supplement: 'http://asestes1.github.io/files/fgraph_sopt_supplement.pdf' 
 selected: true
 ---
 > We study a type of network flow problem that we call the minimum-
