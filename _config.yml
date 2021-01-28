@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexander S. Estes"
 title_separator          : "-"
 name                     : &name "Alexander S. Estes"
-description              : &description "Industrial Postdoctoral Fellow"
+description              : &description "Assistant Professor"
 url                      : https://asestes1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asestes1/asestes1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexander S. Estes"
   avatar           : "headshot.png"
-  bio              : "Industrial Postdoc Fellow"
+  bio              : "Assistant Professor"
   location         :
   employer         : "University of Minnesota"
   pubmed           : 

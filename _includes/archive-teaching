@@ -1,0 +1,31 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<ul>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+	  <li>
+	  <h3>{{ title}}</h3>
+    	{% if post.coauthors%}<p class="archive__item-excerpt" itemprop="description">with {{ post.coauthors }}</p>
+		{% endif %}
+		
+		<h4>Presented at:</h4>
+		{% assign thisvenues = site.talkvenues | where: 'talkid', post.talkid %}
+		<ul>
+			{% for ven in thisvenues reversed %}
+			<li><p class="archive__item-excerpt" itemprop="description"> {{ ven.citation }}</p>
+			{% endfor %}
+		</ul>
+	</li>
+ </article>
+</ul>
