@@ -1,11 +1,11 @@
 ---
 title: "Unsupervised prototype reduction for data exploration and an application to air traffic management initiatives"
 collection: publications
-permalink: /publication/2018-08-13-unsupervised-prototype-reduction
-date: 2018-08-13
+permalink: /publication/2019-08-13-unsupervised-prototype-reduction
+date: 2019-08-13
 venue: 'EURO Journal on Transportation and Logistics'
 paperurl: 'https://doi.org/10.1007/s13676-018-0132-0'
-citation: '<strong>Estes AS</strong>, Lovell DJ, Ball MO (2018) Unsupervised prototype reduction for data exploration and an application to air traffic management initiatives. <i>EURO Journal on Transportation and Logistics.</i> 2603(1):1-44.'
+citation: '<strong>Estes AS</strong>, Lovell DJ, Ball MO (2018) Unsupervised prototype reduction for data exploration and an application to air traffic management initiatives. <i>EURO Journal on Transportation and Logistics.</i> 8:467-510.'
 selected: false
 ---
 
