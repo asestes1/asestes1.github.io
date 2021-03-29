@@ -26,7 +26,7 @@ Please do the following prior to the workshop:
 If you run into any problems in any of these steps, feel free to reach out to Alex Estes.
 
 ## Workshop Schedule
-All following times are in Eastern time.  
+All following times are in Central time.  
 Session 1: Friday, April 23rd, 2:00 p.m. to 5:00 p.m.  
 Session 2: Saturday, April 24th, 9:00 a.m. to 12:00 p.m.  
 Session 3: Saturday, April 24th, 2:00 p.m. to 5:00 p.m.  
@@ -37,8 +37,9 @@ Zoom information and course materials will be posted here prior to the workshop.
 ## Further reading:
 Some good resources on optimization:
 - Walker, R. (1999). Introduction to Mathematical Programming. New Jersey: Prentice Hall. 
-- Bertsimas D. and Tsitsiklis J.N. (1997). Introduction to linear optimization. Belmont, MA: Athena Scientific.
+- Bertsimas D. and Tsitsiklis J.N. (1997). Introduction to Linear Optimization. Belmont, MA: Athena Scientific.
 - Nemhauser, G.L. and Wolsey L. (1999). Integer and Combinatorial Optimization. John Wiley and Sons.
-- Boyd, S. and Vandenberghe, L. (2004). Convex optimization. Cambridge University Press.
+- Boyd, S. and Vandenberghe, L. (2004). Convex oOtimization. Cambridge University Press.
 - Nocedal, J. and Wright, S. (2006). Numerical Optimization. Springer Science and Business Media.
 - Birge, J. and Louveaux F. (2011). Introduction to Stochastic Programming (2nd edition). Springer Science and Business Media.
+- Papadimitriou, C.H. and Seiglitz, K. (1998). Combinatorial Optimization: Algorithms and Complexity. Dover. 
