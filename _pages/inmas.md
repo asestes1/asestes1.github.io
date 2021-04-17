@@ -9,6 +9,13 @@ This is the webpage for the Modeling and Optimization portion of Inmas 2021. All
 Instructor: Alex Estes  
 email: <este0100@umn.edu>
 
+TAs:  
+Nik Wojtalewicz  
+email: <npw2@illinois.edu>  
+
+Vaibhav Karve  
+email: <vkarve2@illinois.edu>  
+
 ## Overview
 This workshop introduces optimization models and methods for solving decision-making problems in areas such as engineering, business, economy, manufacturing, finance and healthcare. The ultimate goal is to teach students how to solve large-scale optimization problems from the real world. The course will introduce the following topics: 
 - Formulating decision problems into mathematical optimization models.
