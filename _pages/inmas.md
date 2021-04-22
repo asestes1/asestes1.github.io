@@ -33,7 +33,7 @@ Please do the following prior to the workshop:
 If you run into any problems in any of these steps, feel free to reach out to Alex Estes.
 
 ## Workshop Schedule
-Zoom meeting link: [click here](https://umn.zoom.us/j/99870639723?pwd=VUdncldwQ2dDL2hBUm5Ja2M2RzVEZz09)
+Zoom meeting link: [click here](https://umn.zoom.us/j/94999533278?pwd=TGpPTXA0UXlmc21zYlFVLzR1YlZhdz09)
 
 All following times are in Central time.  
 Session 1: Friday, April 23rd, 2:00 p.m. to 5:00 p.m.
