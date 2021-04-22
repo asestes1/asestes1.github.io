@@ -33,13 +33,26 @@ Please do the following prior to the workshop:
 If you run into any problems in any of these steps, feel free to reach out to Alex Estes.
 
 ## Workshop Schedule
-All following times are in Central time.  
-Session 1: Friday, April 23rd, 2:00 p.m. to 5:00 p.m.  
-Session 2: Saturday, April 24th, 9:00 a.m. to 12:00 p.m.  
-Session 3: Saturday, April 24th, 2:00 p.m. to 5:00 p.m.  
-Session 4: Sunday, April 25th, 9:00 a.m. to 12:00 p.m.  
+Zoom meeting link: [click here](https://umn.zoom.us/j/99870639723?pwd=VUdncldwQ2dDL2hBUm5Ja2M2RzVEZz09)
 
-Zoom information and course materials will be posted here prior to the workshop.
+All following times are in Central time.  
+Session 1: Friday, April 23rd, 2:00 p.m. to 5:00 p.m.
+- Slides: [click here](/files/inmas_2021_mo_day1.pdf).  
+- Gurobi examples: [piecontest.py](/files/piecontest.py), [prodplanning_linexpr.py](/files/prodplanning_linexpr.py), [productionplanning.py](productionplanning.py)
+- Problems: [click here](/files/inmas_session1_hw.pdf)
+
+Session 2: Saturday, April 24th, 9:00 a.m. to 12:00 p.m.
+- Slides: [click here](/files/inmas_2021_mo_day2.pdf).  
+- Problems: [click here](/files/inmas_session2_hw.pdf)
+
+Session 3: Saturday, April 24th, 2:00 p.m. to 5:00 p.m.
+- Slides: [click here](/files/inmas_2021_mo_day3.pdf).  
+- Problems: [click here](/files/inmas_session3_hw.pdf)
+
+Session 4: Sunday, April 25th, 9:00 a.m. to 12:00 p.m.
+- Slides: [click here](/files/inmas_2021_mo_day4.pdf). 
+- Gurobi examples: [tsp.py](tsp.py)
+- Problems: [click here](/files/inmas_session4_hw.pdf)
 
 ## Further reading:
 Some good resources on optimization:
