@@ -41,7 +41,7 @@ Zoom meeting link: [click here](https://umn.zoom.us/j/94999533278?pwd=TGpPTXA0UX
 All following times are in Central time.  
 Session 1: Friday, April 23rd, 2:00 p.m. to 5:00 p.m.
 - Slides: [click here](/files/inmas_2021_mo_day1.pdf).  
-- Gurobi examples: [piecontest.py](/files/piecontest.py), [prodplanning_linexpr.py](/files/prodplanning_linexpr.py), [productionplanning.py](productionplanning.py)
+- Gurobi examples: [piecontest.py](/files/piecontest.py), [prodplanning_linexpr.py](/files/prodplanning_linexpr.py), [productionplanning.py](/files/productionplanning.py)
 - Problems: [click here](/files/inmas_session1_hw.pdf)
 
 Session 2: Saturday, April 24th, 9:00 a.m. to 12:00 p.m.
@@ -54,7 +54,7 @@ Session 3: Saturday, April 24th, 2:00 p.m. to 5:00 p.m.
 
 Session 4: Sunday, April 25th, 9:00 a.m. to 12:00 p.m.
 - Slides: [click here](/files/inmas_2021_mo_day4.pdf). 
-- Gurobi examples: [tsp.py](tsp.py)
+- Gurobi examples: [tsp.py](/files/tsp.py)
 - Problems: [click here](/files/inmas_session4_hw.pdf)
 
 ## Further reading:
